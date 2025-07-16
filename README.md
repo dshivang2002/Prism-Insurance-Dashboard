@@ -74,3 +74,17 @@ This Power BI project analyzes insurance claim and policy data for **PRISM INSUR
 
 - 📉 **41.87%** of policies are **inactive**, suggesting an opportunity to implement customer retention and reactivation strategies.
 
+--- 
+## 🧠 Strategic Takeaways
+
+- Enhance claim process transparency to reduce rejections and pending volumes.
+
+- Review policy pricing and coverage terms to ensure alignment with actual risk exposure.
+
+- Focus on adult policyholders with adjusted product offerings or improved underwriting criteria.
+
+- Leverage travel insurance as a high-performing product category.
+
+- Target inactive policyholders through renewal campaigns and customer engagement initiatives.
+
+--- 
